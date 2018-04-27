@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">BroadBand</string>
+  <string name="connection_failed">Connection Failed</string>
+  <string name="connectionfail">Unable to connect internet. Please Check your network connection and try again</string>
+  <string name="signup">Sign Up</string>
+  <string name="home">Home</string>
+  <string name="apply_for_new_connection">Apply for new Connection</string>
+  <string name="register_complaint">Register Complaint</string>
+  <string name="about_us">About Us</string>
+  <string name="contact_us">Contact Us</string>
+  <string name="connection_status">Connection Status</string>
+  <string name="new_plan">New Plan</string>
+  <string name="term_and_condition">Term And Condition</string>
+  <string name="exit_logout">Exit/Logout</string>
+</resources>
